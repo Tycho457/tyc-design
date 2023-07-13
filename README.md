@@ -1,1 +1,1 @@
-# tyc-design
+# Tyc-Design
